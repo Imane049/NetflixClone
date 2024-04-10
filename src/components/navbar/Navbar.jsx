@@ -1,5 +1,5 @@
 import React from 'react'
-import './Navbar.scss';
+import './navbar.scss';
 import { useState } from 'react';
 import { ArrowDropDown, Notifications, Search } from '@mui/icons-material';
 const Navbar = () => {
